@@ -1,12 +1,8 @@
 #include <stdio.h>
 
 /* Prototypes */
-char *hello(){
-  printf("hello")
-};
-char *world(){
-  printf("world")
-};
+char *hello();
+char *world();
 
 int
 main(int argc, char **argv)
